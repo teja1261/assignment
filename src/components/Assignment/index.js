@@ -7,7 +7,7 @@ class Assignment extends Component {
         return (
             <div className="app-container">
                 <div className="sidebar-container">
-                <div className="section">
+                <div className="section-logo">
                     <img src="https://www.linkpicture.com/q/frame_1-removebg-preview.png" alt="logo" className="logo-main"/>
                 </div>
                     <div className="section">
