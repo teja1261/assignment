@@ -1,0 +1,33 @@
+.app-container{
+    min-height: 100vh;
+    font-family: 'Roboto';
+    display: flex;
+}
+
+.sidebar-container {
+    width: 10%;
+    color: grey;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.select-section {
+    border-left: 3px solid #357EC7;
+    background-color: #C9DFEC;
+}
+
+.logo-main {
+    height: 150px;
+    color: grey;
+}
+
+.logo{
+    padding-top: 15px;
+    width: 20px;
+}
